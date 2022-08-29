@@ -1,0 +1,27 @@
+*{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+    
+
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(8, 240, 27);
+}
+p{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    background-color: rgb(43, 255, 0);
+    color: rgb(4, 53, 187);
+}
+span{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(20, 37, 187);
+    color: rgb(238, 5, 75);
+    
+}
