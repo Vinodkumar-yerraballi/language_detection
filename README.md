@@ -1,7 +1,7 @@
 # language_detection
 
 # The app link below
-https://vinodkumar-yerraballi-flight-price-prediction-app-g2djrd.streamlitapp.com/
+https://vinodkumar-yerraballi-language-detection-app-a60304.streamlitapp.com/
 
 # The languages in the dataset is given below such as
 'Estonian', 'Swedish', 'Thai', 'Tamil', 'Dutch', 'Japanese',
